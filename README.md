@@ -1,1 +1,1 @@
-# Task-2-to-Explore-Supervised-Machine-Learning
+# Tasks-to-Explore-Supervised-Machine-Learning
